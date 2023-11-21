@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
-- 💬 Ask me about **Innovation, Creativity, Blockchain Technology**
+- 💬 Ask me about **Business Innovation, Web3.0 and Blockchain Technology**
 
 - 📫 How to reach me **lucianopimentel@yahoo.com**
 
