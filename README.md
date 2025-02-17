@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciano Pimentel</h1>
 <h3 align="center">A passionate DevOps Engineer living in Germany</h3>
 
-- 🔭 I’m currently working on [Adapting Hospitality Industry for a Globalized World](https://www.linkedin.com/posts/lucianopsantana_hospitalityinnovation-technology-futureofhospitality-activity-7128087350395514880-3MZ7?utm_source=share&utm_medium=member_desktop)
+- 🔭 I’m currently working on [IA Agents Horizontal and Vertical Automation](https://www.linkedin.com/posts/lucianopsantana_hospitalityinnovation-technology-futureofhospitality-activity-7128087350395514880-3MZ7?utm_source=share&utm_medium=member_desktop)
 
 - 🌱 I’m currently learning **Blockchain Technology and Machine Learning**
 
